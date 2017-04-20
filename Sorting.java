@@ -1,6 +1,6 @@
-/** Author: Javier Mucia
- *  Class: CS-323
- *  Prof. Dr. Yuan
+/*
+ * Author: Javier Mucia
+ * Description: Implementation of Insertion Sort, Merge Sort, Heap Sort and Quick Sort
  */
 import java.io.File;
 import java.io.FileReader;
